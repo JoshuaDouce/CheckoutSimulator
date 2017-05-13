@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ProductDatabase
+comment1.params=
+comment1.target=ProductDatabase()
+comment2.params=product
+comment2.target=void\ addProduct(Product)
+comment3.params=barcode
+comment3.target=void\ removeProduct(java.lang.String)
+comment4.params=barcode
+comment4.target=Product\ getProduct(java.lang.String)
+comment5.params=
+comment5.target=void\ generateProducts()
+comment6.params=
+comment6.target=void\ listAllProducts()
+comment7.params=
+comment7.target=int\ databaseSize()
+numComments=8

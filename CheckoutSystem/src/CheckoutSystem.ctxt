@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CheckoutSystem
+comment1.params=
+comment1.target=CheckoutSystem()
+comment2.params=checkout
+comment2.target=void\ addCheckout(Checkout)
+comment3.params=index
+comment3.target=void\ removeCheckout(int)
+comment4.params=index
+comment4.target=Checkout\ getCheckout(int)
+comment5.params=
+comment5.target=void\ initialCheckouts()
+comment6.params=
+comment6.target=int\ databaseSize()
+numComments=7

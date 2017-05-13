@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=SupermarketSystem
+comment1.params=
+comment1.target=SupermarketSystem()
+comment10.params=customerNumber\ checkNum
+comment10.target=void\ addLoyaltyPoints(java.lang.String,\ int)
+comment2.params=
+comment2.target=CheckoutSystem\ getCheckoutSystem()
+comment3.params=checkoutSystem
+comment3.target=void\ setCheckoutSystem(CheckoutSystem)
+comment4.params=
+comment4.target=ProductDatabase\ getProductDatabase()
+comment5.params=productDatabase
+comment5.target=void\ setProductDatabase(ProductDatabase)
+comment6.params=
+comment6.target=CustomerDatabase\ getCustomerDatabase()
+comment7.params=customerDatabase
+comment7.target=void\ setCustomerDatabase(CustomerDatabase)
+comment8.params=
+comment8.target=StaffDatabase\ getStaffDatabase()
+comment9.params=staffDatabase
+comment9.target=void\ setStaffDatabase(StaffDatabase)
+numComments=11

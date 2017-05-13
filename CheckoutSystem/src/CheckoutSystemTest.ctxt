@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=CheckoutSystemTest
+comment1.params=
+comment1.target=CheckoutSystemTest()
+comment2.params=
+comment2.target=void\ setUp()
+comment3.params=
+comment3.target=void\ testCheckoutSystem()
+comment4.params=
+comment4.target=void\ testAddCheckout()
+comment5.params=
+comment5.target=void\ testRemoveCheckout()
+comment6.params=
+comment6.target=void\ testGetCheckout()
+comment7.params=
+comment7.target=void\ testInitialCheckouts()
+numComments=8

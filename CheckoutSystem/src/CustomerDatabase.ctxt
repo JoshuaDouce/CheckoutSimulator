@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=CustomerDatabase
+comment1.params=
+comment1.target=CustomerDatabase()
+comment2.params=customer
+comment2.target=void\ addCustomer(Customer)
+comment3.params=customerNumber
+comment3.target=void\ removeCustomer(java.lang.String)
+comment4.params=customerNumber
+comment4.target=Customer\ getCustomer(java.lang.String)
+comment5.params=
+comment5.target=void\ listAllCustomers()
+comment6.params=
+comment6.target=void\ testCustomers()
+comment7.params=
+comment7.target=int\ databaseSize()
+numComments=8

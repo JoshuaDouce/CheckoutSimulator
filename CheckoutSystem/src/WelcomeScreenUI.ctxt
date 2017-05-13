@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=WelcomeScreenUI
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Launch\ the\ application.\r\n
+comment2.params=
+comment2.target=void\ run()
+comment3.params=
+comment3.target=WelcomeScreenUI()
+comment4.params=
+comment4.target=void\ initGUI()
+comment4.text=\r\n\ Create\ the\ frame.\r\n
+comment5.params=arg0
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=
+comment6.target=java.lang.String\ getIdNo()
+comment7.params=
+comment7.target=SupermarketSystem\ getSupermarketSystem()
+numComments=8

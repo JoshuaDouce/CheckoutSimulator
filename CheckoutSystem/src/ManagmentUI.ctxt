@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ManagmentUI
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Launch\ the\ application.\r\n
+comment2.params=
+comment2.target=ManagmentUI()
+comment2.text=\r\n\ Create\ the\ dialog.\r\n
+numComments=3

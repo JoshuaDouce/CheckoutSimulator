@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Managment
+comment1.params=staffIdNo\ staffName\ staffPassword
+comment1.target=Managment(java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=2

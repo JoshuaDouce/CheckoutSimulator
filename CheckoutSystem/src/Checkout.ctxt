@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Checkout
+comment1.params=number
+comment1.target=Checkout(java.lang.String)
+comment10.params=
+comment10.target=double\ totalCost()
+comment11.params=
+comment11.target=double\ getBalance()
+comment2.params=
+comment2.target=java.lang.String\ getCheckoutNumber()
+comment3.params=
+comment3.target=java.util.ArrayList\ getBasket()
+comment4.params=checkoutNumber
+comment4.target=void\ setCheckoutNumber(java.lang.String)
+comment5.params=
+comment5.target=void\ listBasket()
+comment6.params=amountPayed
+comment6.target=double\ payCash(double)
+comment7.params=index
+comment7.target=void\ removeProduct(int)
+comment8.params=product
+comment8.target=void\ scan(Product)
+comment9.params=
+comment9.target=void\ clearBasket()
+numComments=12

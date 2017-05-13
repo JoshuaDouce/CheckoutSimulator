@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=StaffDatabase
+comment1.params=
+comment1.target=StaffDatabase()
+comment2.params=staff
+comment2.target=void\ addStaff(StaffMember)
+comment3.params=staffIdNo
+comment3.target=void\ removeStaff(java.lang.String)
+comment4.params=staffIdNo
+comment4.target=StaffMember\ getStaff(java.lang.String)
+comment5.params=
+comment5.target=void\ listAllStaff()
+comment6.params=
+comment6.target=void\ testStaff()
+comment7.params=
+comment7.target=int\ databaseSize()
+numComments=8
